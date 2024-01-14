@@ -59,6 +59,18 @@
     
 }
 
+#botao{
+    width: 90%;
+    height: 55px;
+    background-color: #166FE5;
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin-top: 2%;
+    border: #166FE5;
+    font-weight: bold;
+    font-size: 22px;
+}
+
 #user::placeholder{
     padding-left: 15px;
     font-size: 17px;
