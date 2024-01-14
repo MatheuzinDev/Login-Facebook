@@ -71,6 +71,16 @@
     font-size: 22px;
 }
 
+#esquecerSenha{
+    margin-top: 5%;
+}
+
+a{
+    text-decoration: none;
+    color: #1877F2;
+        
+}
+
 #user::placeholder{
     padding-left: 15px;
     font-size: 17px;
@@ -81,4 +91,8 @@
     padding-left: 15px;
     font-size: 17px;
     color: #90949C;;
+}
+
+a:hover{
+    text-decoration: underline;
 }
