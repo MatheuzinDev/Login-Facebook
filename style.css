@@ -24,9 +24,9 @@
 #caixaEntrar{
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     background-color: white;
-    width: 33%;
-    height: 44%;
-    margin-left: 33.8%;
+    width: 29.5%;
+    height: 42%;
+    margin-left: 35.5%;
     margin-top: 0.9%;
     text-align: center;
     border-radius: 7px;
@@ -96,9 +96,17 @@ a{
     padding: 0 3%;
 }
 
-#novaConta{
+#botaoCriarConta{
+    width: 43%;
+    height: 50px;
+    background-color: #42B72A;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFF1;
     margin-top: 6%;
-    
+    border-radius: 6px;
+    border: 1px solid #42B72A;
+    outline: none;
 }
 
 #user::placeholder{
